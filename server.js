@@ -34,7 +34,7 @@ var server = http.createServer(function(request, response){
     <title>Document</title>
 </head>
 <body>
-    <h1>I LOVE CANDY</h1>
+    <h1>OK ,成功了</h1>
 </body>
 </html>`)
     response.end()
